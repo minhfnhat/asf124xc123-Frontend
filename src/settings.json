@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work.",
+        "title": "Elevate Your Workday with Our Innovative Solution"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work.",
+        "title": "Elevate Your Workday with Our Innovative Solution"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work.",
+        "title": "Elevate Your Workday with Our Innovative Solution"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work.",
+        "title": "Elevate Your Workday with Our Innovative Solution"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work.",
+        "title": "Elevate Your Workday with Our Innovative Solution"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work.",
+        "title": "Elevate Your Workday with Our Innovative Solution"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work.",
+        "title": "Elevate Your Workday with Our Innovative Solution"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work.",
+        "title": "Elevate Your Workday with Our Innovative Solution"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Workday with Our Innovative Solution",
+  "subtitle": "Discover a new level of productivity and efficiency with cutting-edge tools designed to transform the way you work."
+}
